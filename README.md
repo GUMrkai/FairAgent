@@ -1,2 +1,2 @@
 # FairAgent
-Social Cpmputing Agent Platform
+Social Computing Agent Platform
